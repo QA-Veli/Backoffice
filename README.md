@@ -17,7 +17,7 @@ This project provides a test automation framework for the VeliGames Backoffice. 
 
 3. **Navigate to the project directory:**
     ```bash
-    cd GamesBackoffice
+    cd Backoffice
     ```
 
 4. **Install required packages:**
